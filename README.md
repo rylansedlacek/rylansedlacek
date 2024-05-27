@@ -1,6 +1,8 @@
-<h1>Hello!</h1>
+<h1>welcome</h1>
 
-<p>Please check out my pinned projects below. To contact, refer to my LinkedIn profile.</p>
+<p>check out my pinned projects below!</p>
+
+<b>CONTACT: sedlacekrylan@gmail.com</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rylansedlacek)](https://github.com/anuraghazra/github-readme-stats)
 
