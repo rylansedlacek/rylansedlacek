@@ -1,6 +1,7 @@
-<h1>welcome</h1>
+<h1>welcome🏄🌴</h1>
 
 <p>check out my pinned projects below!</p>
+<p>(or view all of my repos above)</p>
 
 <b>CONTACT: sedlacekrylan@gmail.com</b>
 
