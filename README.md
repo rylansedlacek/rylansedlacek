@@ -1,4 +1,4 @@
-<h1>welcome🏄🌴</h1>
+<h1>welcome</h1>
 <p>check out my pinned projects below!</p>
 
 <h3 align="left">languages and tools:</h3>
