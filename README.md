@@ -6,4 +6,4 @@
 
 
 
-<h3>contact:</h3> sedlacekrylan [at] gmail [dot] com
+<h3>contact:</h3> sedlacekrylan@ gmail dot com
