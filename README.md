@@ -7,6 +7,6 @@
 <h3>Contact:</h3> 
 <b>Email: </b>sedlacekrylan[@]gmail[dot]com 
 <br></br>
-<a href="rylansed.org"> My Website</a>
+<b>Website: </b> rylansed.org
 
 
